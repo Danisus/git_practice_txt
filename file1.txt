@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Local line A
+=======
+GitHub line B
+>>>>>>> ade3cf93974e837251ea616de27299d2a9bfb834
